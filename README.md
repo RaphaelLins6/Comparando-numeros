@@ -10,7 +10,7 @@ in php, read three integers, starting from one
 form, and print on the screen which is the largest and smallest
 value provided.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ☠️ Aprendi a trabalhar códigos PHP dentro do script em 
 HTML e a fazer formulários.
@@ -18,7 +18,7 @@ HTML e a fazer formulários.
 ☠️ I learned how to work PHP codes inside the script in
 HTML and making forms.
 
-## Stack utilizada
+## Stack utilizada | Stack used
 
 **Front-end:** VS code | HTML
 
